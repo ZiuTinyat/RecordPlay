@@ -1,6 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
+Project("{C0F9A67F-FC8F-FD63-9A08-F2F59343D4E7}") = "RecordPlay", "Assembly-CSharp-firstpass.csproj", "{CB2D0385-D73B-E5AA-DA93-FB09AA09AD9B}"
+EndProject
 Project("{C0F9A67F-FC8F-FD63-9A08-F2F59343D4E7}") = "RecordPlay", "Assembly-CSharp.csproj", "{96D3DF3C-1A6D-E2A4-B46B-88D14A733B87}"
 EndProject
 Global
@@ -9,6 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB2D0385-D73B-E5AA-DA93-FB09AA09AD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB2D0385-D73B-E5AA-DA93-FB09AA09AD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB2D0385-D73B-E5AA-DA93-FB09AA09AD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB2D0385-D73B-E5AA-DA93-FB09AA09AD9B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{96D3DF3C-1A6D-E2A4-B46B-88D14A733B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{96D3DF3C-1A6D-E2A4-B46B-88D14A733B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96D3DF3C-1A6D-E2A4-B46B-88D14A733B87}.Release|Any CPU.ActiveCfg = Release|Any CPU

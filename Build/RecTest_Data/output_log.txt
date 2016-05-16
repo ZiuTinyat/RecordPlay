@@ -1,0 +1,39 @@
+Mono path[0] = 'D:/Program.Houdou/Unity 3D/Record & Play/Build/RecTest_Data/Managed'
+Mono path[1] = 'D:/Program.Houdou/Unity 3D/Record & Play/Build/RecTest_Data/Mono'
+Mono config path = 'D:/Program.Houdou/Unity 3D/Record & Play/Build/RecTest_Data/Mono/etc'
+PlayerConnection initialized from D:/Program.Houdou/Unity 3D/Record & Play/Build/RecTest_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55258
+Multi-casting "[IP] 172.16.79.109 [Port] 55258 [Flags] 3 [Guid] 4004662959 [EditorId] 3687919202 [Version] 1048832 [Id] WindowsPlayer(Houdou-Pro) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [172.16.79.109:55258]...
+Timed out. Continuing without host connection.
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56959
+PlayerConnection already initialized - listening to [172.16.79.109:55258]
+Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Program.Houdou\Unity 3D\Record & Play\Build\RecTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Program.Houdou\Unity 3D\Record & Play\Build\RecTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Program.Houdou\Unity 3D\Record & Play\Build\RecTest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Program.Houdou\Unity 3D\Record & Play\Build\RecTest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Program.Houdou\Unity 3D\Record & Play\Build\RecTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Program.Houdou\Unity 3D\Record & Play\Build\RecTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Program.Houdou\Unity 3D\Record & Play\Build\RecTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Program.Houdou\Unity 3D\Record & Play\Build\RecTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Program.Houdou\Unity 3D\Record & Play\Build\RecTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Program.Houdou\Unity 3D\Record & Play\Build\RecTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: D:\Program.Houdou\Unity 3D\Record & Play\Build\RecTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Program.Houdou\Unity 3D\Record & Play\Build\RecTest_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.811176 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3154 -> priority: 1 
+  Thread -> id: 3a44 -> priority: 1 
